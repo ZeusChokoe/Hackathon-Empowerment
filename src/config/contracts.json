@@ -1,0 +1,17 @@
+{
+  "defaultNetwork": "sepolia",
+  "contracts": {
+    "SafeReportRegistry": {
+      "sepolia": "",
+      "polygonMumbai": ""
+    },
+    "PeriodAidDonations": {
+      "sepolia": "",
+      "polygonMumbai": ""
+    },
+    "USDC": {
+      "sepolia": "",
+      "polygonMumbai": ""
+    }
+  }
+}

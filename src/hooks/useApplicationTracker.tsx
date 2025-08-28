@@ -43,13 +43,13 @@ export const useApplicationTracker = () => {
           type: 'loan',
           title: 'Small Business Loan - R15,000',
           status: 'approved',
-          submittedDate: '2024-08-15',
-          lastUpdated: '2024-08-18',
+          submittedDate: '2025-08-24',
+          lastUpdated: '2025-08-24',
           amount: 15000,
           description: 'Loan for expanding my catering business',
           documents: ['ID Document', 'Business Plan', 'Income Statement'],
-          trackingNumber: 'ZF-LOAN-2024-08-001',
-          estimatedDecision: '2024-08-20',
+          trackingNumber: 'ZF-LOAN-2025-08-001',
+          estimatedDecision: '2025-08-24',
           notes: 'Loan approved. Funds will be disbursed within 24 hours.'
         },
         {
@@ -57,25 +57,25 @@ export const useApplicationTracker = () => {
           type: 'education',
           title: 'Digital Marketing Course',
           status: 'in_review',
-          submittedDate: '2024-08-20',
-          lastUpdated: '2024-08-22',
+          submittedDate: '2025-08-20',
+          lastUpdated: '2025-08-22',
           description: 'Application for digital marketing certification program',
           documents: ['Academic Transcript', 'Motivation Letter'],
-          trackingNumber: 'ZF-EDU-2024-08-002',
-          estimatedDecision: '2024-08-30'
+          trackingNumber: 'ZF-EDU-2025-08-002',
+          estimatedDecision: '2025-08-30'
         },
         {
           id: 'app_003',
           type: 'scholarship',
           title: 'Women in Technology Scholarship - R25,000',
           status: 'pending',
-          submittedDate: '2024-08-23',
-          lastUpdated: '2024-08-23',
+          submittedDate: '2025-08-24',
+          lastUpdated: '2025-08-24',
           amount: 25000,
           description: 'Scholarship application for computer science studies',
           documents: ['Portfolio', 'Recommendation Letters', 'Financial Need Statement'],
-          trackingNumber: 'ZF-SCH-2024-08-003',
-          estimatedDecision: '2024-09-15'
+          trackingNumber: 'ZF-SCH-2025-08-003',
+          estimatedDecision: '2025-09-15'
         }
       ];
 
